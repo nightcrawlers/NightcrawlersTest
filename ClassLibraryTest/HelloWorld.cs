@@ -8,7 +8,7 @@ namespace ClassLibraryTest
 {
     public class HelloWorld
     {
-        pulic string DoYourThing()
+        public string DoYourThing()
         {return "Hello world!";}
     }
 }

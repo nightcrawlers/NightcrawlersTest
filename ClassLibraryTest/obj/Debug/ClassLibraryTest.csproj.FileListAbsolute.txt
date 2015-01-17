@@ -1,0 +1,5 @@
+C:\Prosjekter\GitHub\NightcrawlersTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.csprojResolveAssemblyReference.cache
+C:\Prosjekter\GitHub\NightcrawlersTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+C:\Prosjekter\GitHub\NightcrawlersTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+C:\Prosjekter\GitHub\NightcrawlersTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+C:\Prosjekter\GitHub\NightcrawlersTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb
